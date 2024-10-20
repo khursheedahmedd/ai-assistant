@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { ReactMic } from 'react-mic';
 import axios from 'axios';
 
 const LanguageTranslationMode = () => {
